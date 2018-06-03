@@ -7,7 +7,7 @@ The data from the DHT11 sensor is retrieved and then displayed on the LCD displa
 
 ## Note
 
-The headset must be entered according to the sensor type. For DHT11, for example, dht.h or DHT.h or DHT11.h or DHT12.h or other variants available on the Internet.
+The header must be entered according to the sensor type. For DHT11, for example, dht.h or DHT.h or DHT11.h or other variants available on the Internet.
 
 
 
