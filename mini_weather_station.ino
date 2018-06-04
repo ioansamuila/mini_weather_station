@@ -22,8 +22,8 @@ void setup() {
   lcd.begin(16, 2);
   Serial.begin(9600);
   delay(500);//Delay to let system boot
-  Serial.println("DHT11 Humidity & temperature Sensor:");
-  delay(1000);//Wait before accessing Sensor
+  Serial.println("DHT11 Humidity & temperature Sensor:\n");
+  delay(2000);//Wait before accessing Sensor
 }
 
 void loop() {
